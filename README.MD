@@ -17,10 +17,11 @@
  - **Blog：**[妙铃子](http://blog.csdn.net/miaolingzi)
  - **Email：**fengjianhui1989@163.com
 
+
  ## Reference
 
- -- **[easypermissions](https://github.com/googlesamples/easypermissions)
- -- **[PermissionGen]( https://github.com/lovedise/PermissionGen)
+ - **[easypermissions](https://github.com/googlesamples/easypermissions)
+ - **[PermissionGen]( https://github.com/lovedise/PermissionGen)
 
 ## License
 ```
