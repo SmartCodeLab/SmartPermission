@@ -1,0 +1,8 @@
+<resources>
+    <string name="rationale_ask_title">权限已被拒绝</string>
+    <string name="rationale_ask">您已经拒绝过应用申请授权，请您同意授权，否则应用将无法正常使用!</string>
+    <string name="rationale_ask_again">没有允许请求的权限，应用将无法正常工作，打开应用信息设置页面修改应用权限.</string>
+    <string name="rationale_title_settings">请求权限</string>
+    <string name="rationale_setting">设置</string>
+    <string name="rationale_cancel">取消</string>
+</resources>
