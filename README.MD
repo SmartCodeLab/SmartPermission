@@ -17,7 +17,7 @@
  - **Blog：**[妙铃子](http://blog.csdn.net/miaolingzi)
  - **Email：**fengjianhui1989@163.com
 
- ## Reference
+## Reference
 
  - [easypermissions](https://github.com/googlesamples/easypermissions)
  - [PermissionGen]( https://github.com/lovedise/PermissionGen)
