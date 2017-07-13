@@ -82,7 +82,7 @@ public class SmartPermission extends BasePermission {
         for (String group : permissionGroup) {
             switch (group) {
                 case PermissionGroup.GROUP_CALENDAR:
-                    for (String single : PermissionGroup.CALENDAR) {
+                    for (String single : PermissionGroup.Group.CALENDAR) {
                         array.append(array.size(), single);
                     }
                     break;

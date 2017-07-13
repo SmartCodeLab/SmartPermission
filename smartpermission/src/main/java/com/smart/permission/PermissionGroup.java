@@ -44,9 +44,8 @@ public @interface PermissionGroup {
 
     String GROUP_STORAGE = Manifest.permission_group.STORAGE;
 
-    String[] CALENDAR = {PermissionSingle.READ_CALENDAR, PermissionSingle.WRITE_CALENDAR};
-
     interface Group {
+        String[] CALENDAR = {PermissionSingle.READ_CALENDAR, PermissionSingle.WRITE_CALENDAR};
         String[] CAMERA = {PermissionSingle.CAMERA};
         String[] CONTACTS = {PermissionSingle.WRITE_CONTACTS, PermissionSingle.GET_ACCOUNTS, PermissionSingle.READ_CONTACTS};
         String[] LOCATION = {PermissionSingle.ACCESS_FINE_LOCATION, PermissionSingle.ACCESS_COARSE_LOCATION};
