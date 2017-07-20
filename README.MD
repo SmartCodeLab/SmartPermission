@@ -10,17 +10,25 @@ Android M权限处理
 
 如果在使用过程中遇到什么问题，欢迎[issue](https://github.com/SmartCodeLab/SmartPermission/issues)告诉我，我将全力为你解决～～
 
+## Using SmartPermission in your application
+
+如果你正在用gradle进行项目构建，仅仅需要在你的`build.gradle` 文件下的`dependencies`里面添加以下依赖：
+
+```
+compile 'com.smart.permission:smartpermission:1.0.1'
+```
+
 ## About Me
 
- - **QQ：**645318955
- - **简书：**[妙铃子](http://www.jianshu.com/users/03ece7ed904a/latest_articles)
- - **Blog：**[妙铃子](http://blog.csdn.net/miaolingzi)
- - **Email：**fengjianhui1989@163.com
+- **QQ：**  645318955
+- **简书：**  [妙铃子](http://www.jianshu.com/users/03ece7ed904a/latest_articles)
+- **Blog：**  [妙铃子](http://blog.csdn.net/miaolingzi)
+- **Email：**  fengjianhui1989@gmail.com
 
 ## Reference
 
- - [easypermissions](https://github.com/googlesamples/easypermissions)
- - [PermissionGen]( https://github.com/lovedise/PermissionGen)
+- [easypermissions](https://github.com/googlesamples/easypermissions)
+- [PermissionGen]( https://github.com/lovedise/PermissionGen)
 
 ## License
 ```
